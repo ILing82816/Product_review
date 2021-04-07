@@ -1,6 +1,6 @@
 # Data Science Predict user ratings (1 to 5) for the review
 * Predicting user ratings by given product reviews.
-* Explored about 150000 product reviews.
+* Used data set of Shopee Code League 2020 Data Science in Kaggle (https://www.kaggle.com/davydev/shopee-code-league-20/tasks?taskId=1571).
 * Processed text: lemmatize text, removing special characters, removing sxtra whitespace, removeing stopwords.
 * Optimized the system by using Binary classification model(Logistic regression, SVM), and Neural Network(DNN, LSTM, LSTM with word embeddubg).
 
